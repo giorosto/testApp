@@ -1,0 +1,13 @@
+.shrink-text{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 140px;
+}
+label{
+    cursor: pointer;
+    color: dark;
+}
+
+.admin label {
+    color: #fff;
+}
